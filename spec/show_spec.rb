@@ -23,5 +23,5 @@ describe Show do
       expect(@rick_and_morty.rating).to eq(10)
     end
 
-    
+  end
 end
